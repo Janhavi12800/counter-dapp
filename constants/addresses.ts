@@ -1,0 +1,3 @@
+// constants/addresses.ts
+export const CONTRACT_ADDRESS = "0x45a93093533CF1E25582D22E23F7019E5d102a11";
+
